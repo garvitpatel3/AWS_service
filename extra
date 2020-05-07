@@ -1,0 +1,15 @@
+  Access resource from diff account
+  Ec2
+
+
+  {
+      "name":"sss",
+      "class":"ddd"
+  }
+
+
+RDS
+s3
+route53
+
+vpc
